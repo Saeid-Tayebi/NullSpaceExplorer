@@ -101,27 +101,7 @@ python -m pytest tests/
 
 ## Releases
 
-The latest release of **NullSpaceExplorer** can be found on the [Releases page](https://github.com/Saeid-Tayebi/NullSpaceExplorer/releases). Download the release package to get started with the tool.
-
-## Folder Structure
-
-```
-NullSpaceExplorer/
-├── nspls/               # Main library code
-│   ├── __init__.py      # Make the folder a Python package
-│   ├── PlsClass.py      # PLS class implementation
-│   ├── NSFcn.py         # Null space calculation functions
-│   └── ...              # Other code files
-├── tests/               # Test cases for validating the code
-│   ├── test_ns_all.py   # Tests for NS_All functionality
-│   ├── test_ns_single.py # Tests for NS_Single functionality
-│   └── ...              # Other test files
-├── example_usage.py     # Demo/tutorial file
-├── README.md            # Project overview and instructions
-├── LICENSE              # License file
-├── requirements.txt     # List of dependencies
-└── .gitignore           # Files to ignore in Git
-```
+The latest release of **NullSpaceExplorer** can be found on the [Releases page](https://github.com/Saeid-Tayebi/NullSpaceExplorer/releases/tag/first_release_ns). Download the release package to get started with the tool.
 
 ## License
 
