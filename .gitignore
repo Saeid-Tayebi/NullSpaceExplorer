@@ -1,0 +1,8 @@
+__pycache__/
+dist/
+*.ipynb
+__pycache__/
+setup.py
+.pytest_cache/
+.vscode/
+__pycache__/
